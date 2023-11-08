@@ -1,0 +1,215 @@
+# Translation of Themes - WP Tour Package in Indonesian
+# This file is distributed under the same license as the Themes - WP Tour Package package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-08-18 03:24:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.2\n"
+"Language: id\n"
+"Project-Id-Version: Themes - WP Tour Package\n"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "WP Tour Package"
+msgstr "WP Tour Package"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "WP Tour Package is a responsive WordPress theme for tour and travel package booking. It is a good fit for all kinds of tours and travel operators. It uses WP Travel Engine WordPress plugin (https://wordpress.org/plugins/wp-travel-engine/). You can add trips, destinations, and trip types, feature travel activities, highlight your specialties and allow visitors to book the trips. The stunning design combined with modern CSS effects and animation will make your visitors feel like they are already on a trip. WP Tour Package WordPress theme is speed optimized, translation ready, SEO-friendly and mobile-friendly. Apart from travel booking companies, you can also use WP Tour Package theme for travel blogging, hotel, spa, bed and breakfast, luxury resort, reservation, tour operator, tourism, transports and car booking. Check the demo at https://rarathemes.com/previews/?theme=tour-package/, documentation at https://docs.rarathemes.com/docs/tour-package/, and get support at https://rarathemes.com/support-ticket/."
+msgstr "WP Tour Package adalah tema WordPress responsif untuk pemesanan paket wisata dan perjalanan. Ini sangat cocok untuk semua jenis tur dan operator perjalanan. Ini menggunakan plugin WordPress WP Travel Engine (https://wordpress.org/plugins/wp-travel-engine/). Anda dapat menambahkan perjalanan, tujuan, dan jenis perjalanan, fitur kegiatan perjalanan, sorot spesialisasi Anda dan memungkinkan pengunjung memesan perjalanan. Desain yang menakjubkan dikombinasikan dengan efek CSS modern dan animasi akan membuat pengunjung Anda merasa seperti mereka sudah dalam perjalanan. Tema WordPress WP Tour Package dioptimalkan kecepatannya, siap diterjemahkan, SEO-friendly dan mobile-friendly. Selain dari perusahaan pemesanan perjalanan, Anda juga dapat menggunakan tema WP Tour Package untuk blogging perjalanan, hotel, spa, tempat tidur dan sarapan, resor mewah, reservasi, operator tur, pariwisata, transportasi, dan pemesanan mobil. Cek demo di https://rarathemes.com/previews/?theme=tour-package/, dokumentasi di https://docs.rarathemes.com/docs/tour-package/, dan dapatkan layanan bantuan di https://rarathemes.com/support-ticket/."
+
+#: functions.php:572
+msgid "Mobile"
+msgstr "Ponsel"
+
+#: functions.php:569
+msgid "CLOSE"
+msgstr "TUTUP"
+
+#: functions.php:633
+msgid "Tour Package | Developed By "
+msgstr "Tour Package | Dikembangkan Oleh"
+
+#: functions.php:183
+msgid "Plugin required"
+msgstr "Plugin diwajibkan"
+
+#: functions.php:173
+msgid "About Demo Import"
+msgstr "Tentang Impor Demo"
+
+#: functions.php:154
+msgid "Demo Content Import"
+msgstr "Impor Konten Demo"
+
+#: functions.php:137
+msgid "More Details"
+msgstr "Rincian Lengkap"
+
+#: functions.php:136
+msgid "Support ticket"
+msgstr "Tiket Bantuan"
+
+#: functions.php:135
+msgid "View documentation"
+msgstr "Lihat Dokumentasi"
+
+#: functions.php:134
+msgid "Recommended plugins"
+msgstr "Plugin yang Disarankan"
+
+#: functions.php:133 functions.php:134 functions.php:135 functions.php:136
+#: functions.php:137
+msgid "here"
+msgstr "di sini"
+
+#: functions.php:133
+msgid "View demo"
+msgstr "Lihat demo"
+
+#: functions.php:132
+msgid "Need help?"
+msgstr "Perlu bantuan?"
+
+#: functions.php:119
+msgid "Information Links"
+msgstr "Tautan Informasi"
+
+#: functions.php:57
+msgid "Default Header Image"
+msgstr "Gambar Header Dasar"
+
+#: functions.php:404 functions.php:428
+msgid "Social Links"
+msgstr "Tautan Media Sosial"
+
+#: functions.php:351 functions.php:476 sections/banner.php:10
+#: sections/banner.php:11
+msgid "Get Started"
+msgstr "Mulai"
+
+#: functions.php:336
+msgid "Add email in header."
+msgstr "Tambahkan e-mail di header."
+
+#: functions.php:285
+msgid "Add phone label in header."
+msgstr "Tambahkan label telepon di header."
+
+#: functions.php:284
+msgid "Phone Label"
+msgstr "Label Telepon"
+
+#: functions.php:260
+msgid "Add phone no. in header."
+msgstr "Tambahkan no. telepon di header."
+
+#: functions.php:259
+msgid "Phone Number"
+msgstr "Nomor Telepon"
+
+#: functions.php:186
+msgid "Click here"
+msgstr "Klik di sini"
+
+#: functions.php:186
+msgid "Download Demo Content"
+msgstr "Unduh Konten Demo"
+
+#: functions.php:183
+msgid "Rara One Click Demo Import"
+msgstr "Rara One Click Demo Import"
+
+#: sections/banner.php:9
+msgid "Find great adventure holidays and activities around the planet."
+msgstr "Temukan petualangan berlibur dan aktivitas menarik di berbagai negara."
+
+#: sections/banner.php:8
+msgid "Find Your Best Holiday"
+msgstr "Temukan Liburan Terbaik Anda"
+
+#: functions.php:636
+msgid "https://wordpress.org/"
+msgstr "https://id.wordpress.org/"
+
+#: functions.php:636
+msgid " Powered by %s"
+msgstr "Ditenagai oleh %s"
+
+#: functions.php:604
+msgid "Click here to add a menu"
+msgstr "Klik di sini untuk membuat menu"
+
+#: functions.php:564
+msgid "MENU"
+msgstr "MENU"
+
+#: functions.php:443
+msgid "links"
+msgstr "links"
+
+#: functions.php:438
+msgid "Example: http://facebook.com"
+msgstr "Contoh: http://facebook.com"
+
+#: functions.php:437
+msgid "Link"
+msgstr "Tautan"
+
+#: functions.php:433
+msgid "Example: fa-bell"
+msgstr "Contoh: fa-bell"
+
+#: functions.php:432
+msgid "Font Awesome Icon"
+msgstr "Ikon Font Awesome"
+
+#: functions.php:405
+msgid "Enable to show social links in header."
+msgstr "Aktifkan untuk menampilkan tautan media sosial di header."
+
+#: functions.php:386
+msgid "Button Url"
+msgstr "URL Tombol"
+
+#: functions.php:335
+msgid "Email"
+msgstr "E-mail"
+
+#: functions.php:311
+msgid "Add working hour in header."
+msgstr "Tambahkan jam kerja di header."
+
+#: functions.php:310
+msgid "Work Hour"
+msgstr "Jam Kerja"
+
+#: functions.php:166
+msgid "WP Tour Package comes with demo content import feature. You can import the demo content with just one click. For step-by-step video tutorial, %1$sClick here%2$s"
+msgstr "WP Tour Package hadir dengan fitur pengimpor konten demo. Anda dapat mengimpor konten demo dengan sekali klik. Untuk langkah-demi-langkah video tutorial, %1$sKlik di sini%2$s"
+
+#: functions.php:143
+msgid "About Tour Package"
+msgstr "Tentang Paket Tur"
+
+#: functions.php:361
+msgid "Button Label"
+msgstr "Label Tombol"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://rarathemes.com/wordpress-themes/tour-package/"
+msgstr "https://rarathemes.com/wordpress-themes/tour-package/"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
